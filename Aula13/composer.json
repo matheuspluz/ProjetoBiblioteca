@@ -1,0 +1,15 @@
+{
+    "name": "matheus.luz/aula13",
+    "description": "Projeto da aula 13",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Matheus Luz"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "twbs/bootstrap": "dev-main"
+    }
+}
